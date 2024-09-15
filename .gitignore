@@ -1,0 +1,6 @@
+.pyc
+.v2
+.ui
+.png
+logs/
+__pycache__/
